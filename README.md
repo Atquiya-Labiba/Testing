@@ -8,7 +8,7 @@ In this project, manual testing techniques were applied to a banking application
 **Project Details**:
 
 
-**Objective**: To ensure the banking application meets all functional and non-functional requirements.
+**Objective**: To ensure the banking application meets all functional requirements.
 
 
 **Scope**:
