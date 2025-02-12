@@ -1,5 +1,5 @@
 # Testing
-This repository will contain all the projects done in ** Software Testing.
+This repository will contain all the projects done in **Software Testing.
 
 **Project 1 Manual Testing of a Banking Application**:
 In this project, manual testing techniques were applied to a banking application. The testing process followed a structured approach based on the Software Requirements Specification (SRS) document.
