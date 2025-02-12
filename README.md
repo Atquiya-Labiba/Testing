@@ -23,7 +23,7 @@ Validation of core banking features such as new customer, fund transfers, and ac
 Test Cases: 
 
 
-Comprehensive test cases were written forNew Customer in the SRS document, covering:
+Comprehensive test cases were written for New Customer in the SRS document, covering:
 
 
 Ensuring adherence to functional requirements.
